@@ -1,0 +1,19 @@
+{
+    "name": "Card Capture",
+    "short_name": "C.Capture",
+    "description": "Solitaire card game played with a standard 52 card deck",
+    "icons": [
+        {
+            "src": "icons/cc-icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#778899",
+    "background_color": "#F8F8FF",
+	"orientation": "portrait-primary",
+	"categories": [ "entertainment", "games", "cards", "solitaire" ],
+	"lang": "eng-uk"
+}
